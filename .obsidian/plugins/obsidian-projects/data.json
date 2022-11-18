@@ -45,8 +45,8 @@
     },
     {
       "id": "bea5c9cd-0dc3-4de7-8905-3a133b5cb198",
-      "name": "运动与健康",
-      "path": "Spaces/2-Area/运动与健康",
+      "name": "LECP",
+      "path": "Spaces/1-Project/LECP",
       "recursive": false,
       "defaultName": "",
       "templates": [],
@@ -61,6 +61,9 @@
             "fieldConfig": {
               "path": {
                 "hide": true
+              },
+              "name": {
+                "width": 417
               }
             }
           }
@@ -69,14 +72,16 @@
           "id": "f8de02b9-2620-4bb4-8f6d-faef2843ccba",
           "name": "Gallery",
           "type": "gallery",
-          "config": {}
+          "config": {
+            "coverField": ""
+          }
         }
       ]
     },
     {
       "id": "e20e8961-c1b7-44ba-974b-46c2ac839a29",
       "name": "微信读书",
-      "path": "Sources/Books/微信读书同步",
+      "path": "Sources/Books/",
       "recursive": true,
       "defaultName": "",
       "templates": [],

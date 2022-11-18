@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "90ce139d098ef9c4",
+        "id": "d4c1d93d246e8455",
         "type": "tabs",
         "children": [
           {
-            "id": "7001bc64cb8c5e69",
+            "id": "b9c569894c6e08c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2022-11-14.md",
+                "file": "Spaces/1-Project/LECP/LECP sriov QoS 设计方案.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7e4bbeaa8ed5a08",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -41,7 +32,7 @@
       {
         "id": "987dbc5670d8f4fa",
         "type": "tabs",
-        "dimension": 52.6829268292683,
+        "dimension": 63.92785571142284,
         "children": [
           {
             "id": "a4d1994dfc9f1870",
@@ -59,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo/持续迭代",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,18 +71,18 @@
             }
           },
           {
-            "id": "c42d42c3701278f3",
+            "id": "f102bffb960773db",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "recent-files",
               "state": {}
             }
           },
           {
-            "id": "1caa72e7d0e86316",
+            "id": "60b12d7f9c04c790",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "starred",
               "state": {}
             }
           }
@@ -100,7 +91,7 @@
       {
         "id": "92910ae8836a7b22",
         "type": "tabs",
-        "dimension": 47.3170731707317,
+        "dimension": 36.07214428857716,
         "children": [
           {
             "id": "e3c3bc13cb0131c1",
@@ -108,8 +99,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2022-11-14.md"
+                "file": "Spaces/1-Project/LECP/LECP sriov QoS 设计方案.md"
               }
+            }
+          },
+          {
+            "id": "05ff45ee3dbeba26",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           },
           {
@@ -118,54 +117,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2022-11-14.md",
+                "file": "Spaces/1-Project/LECP/LECP sriov QoS 设计方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "169f404814f0079a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Calendar/Daily notes/2022-11-14.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.9667757057270663,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "f75fd3617390ebbf",
+            "id": "687dfb8cd0c53082",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2022-11-14.md",
+                "file": "Spaces/1-Project/LECP/LECP sriov QoS 设计方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,101 +140,47 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276.50312423706055
+    "width": 331.5
   },
   "right": {
     "id": "c718ea3b78af998f",
     "type": "split",
     "children": [
       {
-        "id": "bcb314fa61d85e57",
+        "id": "e6d5d7a516a0b11b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b24f298b0fc332a",
+            "id": "063235793a5d0ccd",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "20661a83a7ace6bc",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "54b9686bb5398d2a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "Strange New Worlds",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
+    "width": 217.5,
     "collapsed": true
   },
-  "floating": {
-    "id": "7d71fff512828bfd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "934436bf4c3b6d86",
-        "type": "window",
-        "children": [
-          {
-            "id": "903dc893bfaecf1d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d227f91db5527192",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HOMEPAGE.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 69,
-        "y": 314,
-        "width": 687,
-        "height": 712,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7001bc64cb8c5e69",
+  "active": "b9c569894c6e08c3",
   "lastOpenFiles": [
-    "HOMEPAGE.md",
-    "README.md",
-    "Cards/About Cards.md",
-    "Atlas/About Atlas.md",
-    "AboutTheGarden.md",
-    "Cards/永久笔记/PARA.md",
-    "Spaces/About Spaces.md",
-    "Cards/永久笔记/LYT 笔记框架.md",
-    "Cards/永久笔记/模板与套路.md",
-    "Sources/Books/微信读书同步/历史/长安的荔枝-马伯庸.md"
+    "Calendar/Daily notes/2022-11-18.md",
+    "Spaces/1-Project/LECP/LECP sriov QoS 设计方案.md",
+    "Sources/Books/心理/影响力（经典版）.md",
+    "Sources/Books/心理/自卑与超越.md",
+    "Sources/Books/原版书/FLIPPED怦然心动（中英双语典藏版）.md",
+    "Sources/Books/历史/明朝那些事儿（全集）.md",
+    "Sources/Books/历史/故乡相处流传.md",
+    "Sources/Books/历史/大英博物馆世界简史.md",
+    "Sources/Books/历史/全译罗马帝国衰亡史（全12册）.md",
+    "Sources/Books/历史/人类简史：从动物到上帝-855812.md"
   ]
 }
